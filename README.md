@@ -30,3 +30,4 @@
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pragati1419&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
