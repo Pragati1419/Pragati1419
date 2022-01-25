@@ -3,8 +3,6 @@
 <h3 align="center">A Girl Trying to Figure-out stuff!!</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati1914" alt="pragati1914" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Development and problem solving skills Data structures and Algorithms**
