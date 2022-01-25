@@ -2,9 +2,8 @@
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning Data structures and Algorithms..
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me : pragatikri31@gmail.com
+- 📫 How to reach me : pragatikri31@gmail.com 
      Ask me HTML5 , C , C++ ...
-<!---
-Pragati1419/Pragati1419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+https://github-readme-stats.vercel.app/api?username=pragati1419&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515
