@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **pragatikri31@gmail.com**
 
+
+- 👨‍💻 Potfolio link [https://pragati1419.github.io/Pragati1419]
+- 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pragatikri31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragatikri31" height="50" width="60" /></a>
