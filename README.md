@@ -1,10 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Pragati Kumari</h1>
 <h3 align="center">A Girl Trying to Figure-out stuff!!</h3>
 
-
 <p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a> <img src = "https://visitor-badge.laobi.icu/badge?page_id=pragati1419"> <img src = "https://img.shields.io/github/followers/pragati1419?label=Follow&style=social)(https://github.com/pragati1419)">
  </p>
+ 
+ 
 
 - 🌱 I’m currently learning **Frontend Development and problem solving skills Data structures and Algorithms**
 
@@ -38,4 +38,6 @@
 
 ## Watch my contribution graph eating by snake
 ![snake gif](https://github.com/pragati1419/pragati1419/blob/output/github-contribution-grid-snake.gif)
+## Activity Graph
 
+<img src = "https://activity-graph.herokuapp.com/graph?username=pragati1419&theme=react-dark">
