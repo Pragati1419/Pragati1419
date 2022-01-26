@@ -36,3 +36,6 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
   </p>
 
+## Watch my contribution graph eating by snake
+![snake gif](https://github.com/pragati1419/pragati1419/blob/output/github-contribution-grid-snake.gif)
+
