@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pragati Kumari</h1>
 <h3 align="center">A Girl Trying to Figure-out stuff!!</h3>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding"   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 <p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a>                         
