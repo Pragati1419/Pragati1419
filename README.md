@@ -24,9 +24,9 @@
 - ⚡ Fun fact **I think I am Funny**
 
 
-- 👨‍💻 Potfolio link **https://pragati1419.github.io/Pragati1419**
+- 👨‍💻 Potfolio link  **:** **https://pragati1419.github.io/Pragati1419**
 
-<h3 align="left"> Connect with me:</h3>
+<h3 align="left"> Find me around the web 🌎:</h3>
 <p align="left">
  <a href="https://github.com/pragati1419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pragati1419" height="50" width="60" /></a>
 <a href="https://twitter.com/pragatikri31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragatikri31" height="50" width="60" /></a>
