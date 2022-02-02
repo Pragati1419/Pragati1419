@@ -12,6 +12,8 @@
 
 
  
+- 🔭 I’m currently studying **Civil Engineering at NIT Agartala**
+
 
 - 🌱 I’m currently learning **Frontend Development and problem solving skills Data structures and Algorithms**
 
