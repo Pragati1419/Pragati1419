@@ -28,6 +28,10 @@
 
 - 👨‍💻 Potfolio link  **:** **https://pragati1419.github.io/Pragati1419**
 
+
+<a href="https://stars.github.com/nominate/">**You love what you see , Nominate me for GitHub Star** </a>
+
+
 <h3 align="left"> Find me around the web 🌎:</h3>
 <p align="left">
  <a href="https://github.com/pragati1419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pragati1419" height="50" width="60" /></a>
@@ -44,8 +48,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </p>
 
-<p align="left"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pragati1419&theme=tokyonight"> 
-
+ 📶 Stats:<br><br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragati1419&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 <img src = "https://github-readme-stats.vercel.app/api?username=pragati1419&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
