@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pragati Kumari</h1>
 <h3 align="center">A Girl Trying to Figure-out stuff!!</h3>
 
-<img alt="Night Coding"   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a>                         
  <img src = "https://visitor-badge.laobi.icu/badge?page_id=pragati1419">                                                                                                        <img src = "https://img.shields.io/github/followers/pragati1419?label=Follow&style=social)(https://github.com/pragati1419)">
@@ -19,7 +18,11 @@
 
 - 👯 I’m looking to collaborate on **real life frontend projects.**
 
-- 💬 Ask me about **HTML5,CSS,Javascript or any Tech related stuffs.**
+- 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
+
+
+- 💬 Ask me about **anything and everything! If I don't know maybe I will learn something new!**
+
 
 - 📫 How to reach me **pragatikri31@gmail.com**
 
@@ -48,19 +51,23 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </p>
 
- 📶 **Stats**:<br><br>
+ 📶 **Stats**
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragati1419&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+
+<p align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=pragati1419&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
-  
+ </p>
+
+
+## Activity Graph
+<img src = "https://activity-graph.herokuapp.com/graph?username=pragati1419&theme=react-dark">
+
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/pragati1419/pragati1419/blob/output/github-contribution-grid-snake.gif)
-## Activity Graph
 
-<img src = "https://activity-graph.herokuapp.com/graph?username=pragati1419&theme=react-dark">
 
