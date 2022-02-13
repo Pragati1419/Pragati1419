@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pragati Kumari</h1>
-<h2 align="center">A Girl Trying to Figure-out stuff!!</h2>
+<h2 align="center">A Girl👩 Trying to Figure-out stuff!!</h2>
 
   <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="800px"> 
 
