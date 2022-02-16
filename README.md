@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a> 
-  [![Linkedin Badge](https://img.shields.io/badge/-Pragati Kumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragati1157/)](https://www.linkedin.com/in/pragati1157/)
+  
  </p>
  
  -------------
