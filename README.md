@@ -6,11 +6,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a>                         
- <img src = "https://visitor-badge.laobi.icu/badge?page_id=pragati1419">                                                                                                        <img src = "https://img.shields.io/github/followers/pragati1419?label=Follow&style=social)(https://github.com/pragati1419)">
+<p align="left"> <a href="https://twitter.com/pragatikri31" target="blank"><img src="https://img.shields.io/twitter/follow/pragatikri31?logo=twitter&style=for-the-badge" alt="pragatikri31" /></a> 
+  [![Linkedin Badge](https://img.shields.io/badge/-Pragati Kumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pragati1157/)](https://www.linkedin.com/in/pragati1157/)
  </p>
  
+ -------------
+ 
+ 
+ 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/pragati1419/count.svg?align=center)
+ 
+ -----------
+ 
 
+🌱 **About myself**
 
  
 - 🔭 I’m currently studying **Civil Engineering at NIT Agartala**
@@ -38,6 +47,8 @@
 <a href="https://stars.github.com/nominate/">**You love what you see , Nominate me for GitHub Star** </a>
 
 
+-------------
+
 <h3 align="left"> Find me around the web 🌎:</h3>
 <p align="left">
  <a href="https://github.com/pragati1419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pragati1419" height="50" width="60" /></a>
@@ -51,30 +62,61 @@
 <a href="https://www.leetcode.com/pragatikri31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pragatikri31" height="50" width="60" /></a>
 </p>
 
+
+
+-------------
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </p>
+
+
+------------------
+
+
 
  📶 **Stats**
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragati1419&theme=dark&layout=compact&align=right&width=90%)](https://github.com/anuraghazra/github-readme-stats)
  
 
+-----------------------
+
+
 <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=pragati1419&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515">
- 
+  
+  
+  -------------------------
+  
+  
+  
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
  </p>
 
 
+------------------
+
 ## Activity Graph
 <img src = "https://activity-graph.herokuapp.com/graph?username=pragati1419&theme=react-dark">
+
+
+
+------------------
+
+
 
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/pragati1419/pragati1419/blob/output/github-contribution-grid-snake.gif)
 
 
+
+---------------------------------
+
+
+
 ### Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/pragati1419?tab=repositories)!
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
-
+------------------------------------
