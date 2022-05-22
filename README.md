@@ -98,9 +98,9 @@
  </p>
 
 
-------------------
+---------------------------------------------
 
-## Activity Graph
+## Activity Graph📊
 <img src = "https://activity-graph.herokuapp.com/graph?username=pragati1419&theme=react-dark">
 
 
