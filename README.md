@@ -60,6 +60,7 @@
 <a href="https://www.hackerrank.com/pragatikri31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pragatikri31" height="50" width="60" /></a>
 <a href="https://codeforces.com/profile/pragati-1419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pragati-1419" height="50" width="60" /></a>
 <a href="https://www.leetcode.com/pragatikri31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pragatikri31" height="50" width="60" /></a>
+ 
 </p>
 
 
@@ -68,24 +69,26 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/> </a></p>
 
 
 ------------------
 
 
-
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragati1419&theme=dark&layout=compact&align=right&width=90%)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- 
-
------------------------
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pragati1419&show_icons=true&locale=en&layout=compact&theme=react" alt="pragati1419" /></p>
 
 
-<p align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=pragati1419&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+
+------------------------------------------
+
+
+
+ <p align = "left">
+<img src = "https://github-readme-stats.vercel.app/api?username=pragati1419&show_icons=true&theme=react">
   
   
   
@@ -94,7 +97,7 @@
   
   
   
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=react&border=true&date_format=n%2Fj%5B%2FY%5D">
  </p>
 
 
@@ -123,3 +126,9 @@
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 ------------------------------------
+
+
+
+
+
+
