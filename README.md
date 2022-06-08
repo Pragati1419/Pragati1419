@@ -13,13 +13,12 @@
  -------------
  
  
- 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  👁 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/pragati1419/count.svg?align=center)
  
  -----------
  
-
-🌱 **About myself**
+   👩**About myself**
 
  
 - 🔭 I’m currently studying **Civil Engineering at NIT Agartala**
