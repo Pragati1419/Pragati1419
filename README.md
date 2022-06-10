@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pragati Kumari</h1>
 <h2 align="center">A Girl👩 Trying to Figure-out stuff!!</h2>
 
-  <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="800px"> 
+  <img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="1000px"> 
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif">
 
