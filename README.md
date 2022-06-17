@@ -74,9 +74,7 @@
 
 ------------------
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati1419&layout=compact&theme=react&border=true)
 
 
 
