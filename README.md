@@ -97,8 +97,7 @@
   
   
 
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=react&border=true&date_format=n%2Fj%5B%2FY%5D">
-
+ 
 
 ---------------------------------------------
 
