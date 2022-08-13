@@ -40,7 +40,7 @@
 
 
 
-- 👨‍💻 Potfolio link  **:** **https://pragati1419.github.io/Pragati1419**
+- 👨‍💻 Potfolio link  **:** **https://pragati1419.github.io/My-Portfolio/**
 
 
 <a href="https://stars.github.com/nominate/">**You love what you see , Nominate me for GitHub Star** </a>
