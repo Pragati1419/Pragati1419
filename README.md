@@ -24,9 +24,9 @@
 - 🔭 I’m currently studying **Civil Engineering at NIT Agartala**
 
 
-- 🌱 I’m currently learning **Frontend Development and problem solving skills Data structures and Algorithms**
+- 🌱 I’m currently learning **MERN STACK and problem solving skills Data structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **real life frontend projects.**
+- 👯 I’m looking to collaborate on **MERN projects.**
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
