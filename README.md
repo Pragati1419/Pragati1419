@@ -97,7 +97,7 @@
 
 ------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati1419&layout=compact&theme=react&border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati1419&layout=compact&theme=react&border=true) 
 
 
 
@@ -115,7 +115,7 @@
   -------------------------
   
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=react)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=react)](https://git.io/streak-stats)
 
   
   ---------------------------------------------
