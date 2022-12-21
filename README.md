@@ -115,8 +115,7 @@
   -------------------------
   
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=react)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pragati1419&theme=react)]
   
   ---------------------------------------------
   
