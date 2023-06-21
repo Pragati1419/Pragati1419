@@ -36,11 +36,11 @@
 
 - 📫 How to reach me **pragatikri31@gmail.com**
 
-- ⚡ Fun fact **I love to know about the things from very scratch and always seeking the originating points.**
+- ⚡ Fun fact **I love knowing about things from scratch and always seek the originating points.**
 
 
 
-- 👨‍💻 Potfolio link  **:** **https://pragati1419.github.io/My-Portfolio/**
+- 👨‍💻 Portfolio link  **:** **https://pragati1419.github.io/personal-portfolio/**
 
 
 <a href="https://stars.github.com/nominate/">**You love what you see , Nominate me for GitHub Star** </a>
