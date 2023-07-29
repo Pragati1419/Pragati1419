@@ -1,4 +1,8 @@
+# Welcome to my GitHub Profile👨‍💻🚀🌍
 
+
+
+<h1><img align="center" alt="" width="1000" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></h1>
 <h1 align="center">Hi 👋, I'm Pragati Kumari</h1>
 <h2 align="center">A Girl👩 Trying to Figure-out stuff!!</h2>
 
